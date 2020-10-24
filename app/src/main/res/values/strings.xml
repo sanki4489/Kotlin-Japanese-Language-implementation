@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JapaneseButton</string>
+    <string name="toastshow">show toast</string>
+    <string name="message_counter">Enter your message</string>
+    <string name="print_this">Print Message</string>
+    <string name="toast_message">you clicked toast message</string>
+
+</resources>
